@@ -7,8 +7,8 @@ Follow these steps to set up and run the application on your local machine:
 
  - Clone the Repository:
   ```
-  git clone https://github.com/ShivamVadalia/fastapi-library-management.git
-  cd fastapi-library-management
+  git clone https://github.com/ShivamVadalia/FastAPI_Library_Management_System.git
+  cd FastAPI_Library_Management_System
   ```  
  - Create a new virtual environment:
   ```
