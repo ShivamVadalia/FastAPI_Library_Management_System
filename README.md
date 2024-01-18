@@ -5,7 +5,7 @@ A Python backend with FastAPI and Docker. Features include adding/editing/deleti
 ### 1)Running app on Local Machine
 Follow these steps to set up and run the application on your local machine:
 
- -Clone the Repository:
+ - Clone the Repository:
   ```
   git clone https://github.com/ShivamVadalia/fastapi-library-management.git
   cd fastapi-library-management
