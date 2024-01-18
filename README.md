@@ -2,7 +2,7 @@
 A Python backend with FastAPI and Docker. Features include adding/editing/deleting books, user checkouts, and tracking checked-out users. Ideal for full-stack applications.
 
 ## Getting Started
-1) Running app on Local Machine
+### 1)Running app on Local Machine
 Follow these steps to set up and run the application on your local machine:
  -Clone the Repository:
   ```
