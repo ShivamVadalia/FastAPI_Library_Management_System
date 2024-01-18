@@ -34,7 +34,7 @@ Follow these steps to set up and run the application on your local machine:
   ```
 
 ### 2)Running app as a container on Docker 
-Follow these steps to set up and run the application on Docker:
+I have pushed the docker image to the docker hub and you can pull it using below given scripts:
 
 - Login to Docker:
   ```
