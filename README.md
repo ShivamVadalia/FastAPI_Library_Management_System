@@ -33,6 +33,9 @@ Follow these steps to set up and run the application on your local machine:
   uvicorn main:app --reload
   ```
 
+The FastAPI application should now be accessible at http://localhost:8000 on your local machine.
+Use http://localhost:8000/docs for checking the API usage.
+
 ### 2)Running app as a container on Docker 
 I have pushed the docker image to the docker hub and you can pull it using below given scripts:
 
@@ -50,4 +53,5 @@ I have pushed the docker image to the docker hub and you can pull it using below
   ```
 
   The FastAPI application should now be accessible at http://localhost:8000 on your local machine.
+  Use http://localhost:8000/docs for checking the API usage.
 
