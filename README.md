@@ -42,7 +42,7 @@ Follow these steps to set up and run the application on Docker:
   ```
 - Pull the Docker Image:
   ```
-  docker pull shivamvadalia/myimage
+  docker pull shivamvadalia/myimage:latest
   ```
 - Run the Docker Container: 
   ```
